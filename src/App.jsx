@@ -6,7 +6,7 @@ const App = () => {
         <h2
           className={`font-bold text-[28px] max-w-[390px] text-center ${styles.mainTitle} text-[#3A3845] mb-[24px]`}
         >
-          UP TO 40% OFF OUR CHIRSTMAS COLLECTION
+        UP TO 40% OFF OUR CHRISTMAS COLLECTION
         </h2>
         <p className="max-w-[389px] text-[#595667] text-center">
           Lorem ipsum dolor sit amet consectetur adipiscing eli mattis sit
