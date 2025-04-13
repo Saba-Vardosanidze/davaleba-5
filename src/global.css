@@ -1,0 +1,12 @@
+@import "tailwindcss";
+body {
+  font-family: "Inter";
+}
+@font-face {
+  font-family: "EBGaramond-Regular";
+  src: url("./fonts/EBGaramond-Regular.ttf");
+}
+@font-face {
+  font-family: "Inter";
+  src: url("./fonts/Inter_18pt-Regular.ttf");
+}
